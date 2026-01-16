@@ -1,0 +1,2 @@
+If a transfer fails but money is deducted, customers must provide the transaction ID.
+Support will investigate within 24 hours.

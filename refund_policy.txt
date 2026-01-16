@@ -1,0 +1,2 @@
+Refunds are processed within 5 business days after verification.
+Duplicate charges require order ID confirmation.
